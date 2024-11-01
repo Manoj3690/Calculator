@@ -5,5 +5,5 @@ Built this application using :
 * CSS
 * JavaScript
 
-Calculor is deployed here :
+Calculator is deployed here :
 https://manoj3690.github.io/Calculator/
