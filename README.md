@@ -6,3 +6,4 @@ Built this application using :
 * JavaScript
 
 Calculor is deployed here :
+https://manoj3690.github.io/Calculator/
